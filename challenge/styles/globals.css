@@ -8,8 +8,8 @@
 }
 
 .body {
-  color: var(--foreground);
-  background: var(--background);.app-container {
+  color: (--foreground);
+  background: (--background);.app-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,7 +19,6 @@
   }
 }
 
-/* App.css */
 .app-container {
   display: flex;
   flex-direction: column;
